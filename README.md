@@ -1,1 +1,1 @@
-![[student.png]]
+![Student](student.png)
